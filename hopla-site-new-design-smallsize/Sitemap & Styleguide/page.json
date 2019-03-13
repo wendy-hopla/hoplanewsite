@@ -1,0 +1,98 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68CDDB49-B3DF-45AD-BC24-925DD374EFBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -311,
+    "do_objectID": "A26A1FD8-0F13-44D7-BAEA-300BE91C5EC4",
+    "guides": [
+      4086,
+      4381,
+      4237,
+      3594
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A29B6360-F1AB-4255-A8CC-17DE388C7DE2"
+    },
+    {
+      "class": "artboard",
+      "id": "0DD2DB2C-5D46-4060-B7B2-5B3F4F84365E"
+    },
+    {
+      "class": "artboard",
+      "id": "28FD6789-E15F-45AB-9518-7605D19E4630"
+    },
+    {
+      "class": "artboard",
+      "id": "66E9BA40-704D-4980-A51B-F4A8C7CB215B"
+    },
+    {
+      "class": "artboard",
+      "id": "4377A83B-C608-4FA3-82B7-A190C133ADAA"
+    },
+    {
+      "class": "artboard",
+      "id": "F576CBC3-3A2C-4B6B-907A-AA19412CA5A6"
+    }
+  ],
+  "name": "Sitemap & Styleguide",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -189,
+    "do_objectID": "46819AEA-3602-4B2B-A75E-D8C15659A403",
+    "guides": [
+    ]
+  }
+}

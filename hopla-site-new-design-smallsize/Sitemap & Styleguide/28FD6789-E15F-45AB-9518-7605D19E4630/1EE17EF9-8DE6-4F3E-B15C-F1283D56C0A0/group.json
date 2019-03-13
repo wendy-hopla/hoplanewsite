@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EE17EF9-8DE6-4F3E-B15C-F1283D56C0A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2AA3D1A-8C6B-4F0B-9504-5C5CCED9579D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "841CD8AC-93D4-4721-8AD8-5BEF4BA766AB",
+    "height": 24,
+    "width": 24,
+    "x": 769,
+    "y": 2943
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "165D6645-9E82-4EE2-B131-93DA4C0ABFB8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "04E126C4-7A12-4619-83A5-F6C08D9918CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D79578BF-A47D-469D-8B62-A758262D737B"
+    },
+    {
+      "class": "oval",
+      "id": "6347A828-A173-4ACC-A9BB-11D6F8B48A44"
+    }
+  ],
+  "name": "instagram",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA30842D-2FF1-4DBA-B070-C059ECDFF0AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

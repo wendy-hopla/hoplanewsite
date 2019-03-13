@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BA5E43D-2BBB-485A-8629-BF9FD74978D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "10CE8D12-515E-474E-A820-99F012A54A71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE5CB9E3-0B77-41A1-8259-494BCFEF4267",
+    "height": 24,
+    "width": 24,
+    "x": 688,
+    "y": 5993
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7124AB98-523A-45EE-93B5-B27C100E629D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7473A6B0-7DCB-4C14-A4B2-7D487B321032"
+    }
+  ],
+  "name": "facebook",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9C3321A-B525-443C-ABD4-9771E2F2423F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

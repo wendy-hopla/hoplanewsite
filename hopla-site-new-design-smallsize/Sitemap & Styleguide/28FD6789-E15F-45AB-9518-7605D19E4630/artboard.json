@@ -1,0 +1,278 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C86672C0-B4AA-4EB1-96FB-6C447DD8CC5C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "28FD6789-E15F-45AB-9518-7605D19E4630",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B227A87F-B41E-4F93-8F87-5A98A6A34D6A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27CB0E1A-510C-4405-851D-0D1297DA7978",
+    "height": 3105,
+    "width": 1440,
+    "x": 4677,
+    "y": -273
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "E843572B-0041-48B4-9998-4066C06B5CFB",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6DA25DF1-4DC0-4FB3-93C0-4ECC92B2BEAE"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CFDA0AE5-B59F-46BB-B078-11F77A7A9D07",
+    "guides": [
+      0,
+      56,
+      1440,
+      1384,
+      110,
+      1331,
+      751,
+      688,
+      412,
+      828,
+      729,
+      234,
+      692,
+      621,
+      351,
+      1088
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "70DF54C6-18C0-459D-BB2E-574EFDF35B4A"
+    },
+    {
+      "class": "rectangle",
+      "id": "9B1065DD-3F06-4234-9121-40051626079D"
+    },
+    {
+      "class": "bitmap",
+      "id": "BCC12CA6-6B5C-4720-9EDF-675068FAB060"
+    },
+    {
+      "class": "text",
+      "id": "AC8C728A-C032-4732-8DA4-C5AF901149EC"
+    },
+    {
+      "class": "text",
+      "id": "7A56DD36-ABCE-493C-B5FA-98EDF5298195"
+    },
+    {
+      "class": "text",
+      "id": "FBD7FE4E-D6B8-432C-A870-FDA462742B65"
+    },
+    {
+      "class": "text",
+      "id": "6287634C-A569-47C0-8FB1-CAC4B89C3E1B"
+    },
+    {
+      "class": "text",
+      "id": "F657E96E-F043-48A9-AF1B-8B018EA8371A"
+    },
+    {
+      "class": "text",
+      "id": "D9AA0DC3-786B-4787-911D-1918870D6A11"
+    },
+    {
+      "class": "text",
+      "id": "36ED0002-3D0A-44E9-A739-6CA604E39A22"
+    },
+    {
+      "class": "text",
+      "id": "F7EF8F7B-C4B2-4FF9-A755-CBE817FBC77F"
+    },
+    {
+      "class": "text",
+      "id": "83842716-0B40-411E-9BA8-080CFE955630"
+    },
+    {
+      "class": "text",
+      "id": "E6040954-7330-47D8-B074-A3CFBC3A1E33"
+    },
+    {
+      "class": "rectangle",
+      "id": "F4976183-2FA3-4516-B188-DF1033CD1B1D"
+    },
+    {
+      "class": "text",
+      "id": "26810B63-6483-40B8-9D85-1E4FFC5ECB1B"
+    },
+    {
+      "class": "rectangle",
+      "id": "655FA876-A7D2-49D1-B1A5-D3D7FD147A26"
+    },
+    {
+      "class": "group",
+      "id": "D81E0B0B-760D-4BB2-80F3-AB3A5A2080BA"
+    },
+    {
+      "class": "group",
+      "id": "002275B4-388E-4924-B3CD-660D1255363F"
+    },
+    {
+      "class": "bitmap",
+      "id": "FEFF1C8E-27A0-4C5B-95A8-288C206DFA57"
+    },
+    {
+      "class": "group",
+      "id": "D7428094-BFC0-4074-ADB2-C84F4AD1B89A"
+    },
+    {
+      "class": "group",
+      "id": "482B0832-9FD2-4FE0-83CF-59CADC242E54"
+    },
+    {
+      "class": "group",
+      "id": "1D6175A0-454B-43B7-AC66-DBF667D879A1"
+    },
+    {
+      "class": "group",
+      "id": "37BF0E10-99E7-49F5-AC57-1F4D7980A68F"
+    },
+    {
+      "class": "text",
+      "id": "1C38521A-0634-479C-88C0-6A1861F221A4"
+    },
+    {
+      "class": "text",
+      "id": "E1449FED-3B69-4BD7-A424-9463FC21ACD5"
+    },
+    {
+      "class": "text",
+      "id": "928EBBC6-C728-4207-9EF2-8A539420D93D"
+    },
+    {
+      "class": "text",
+      "id": "14094FB4-BE7F-49BD-B55D-100A9DA18ED0"
+    },
+    {
+      "class": "text",
+      "id": "8E46D4E4-F259-4482-B067-FFB6063DDAC5"
+    },
+    {
+      "class": "text",
+      "id": "6CD3B08E-E250-4AFF-AB3F-2132054BA4CF"
+    },
+    {
+      "class": "text",
+      "id": "D1B7B24B-5FA6-457D-8A81-A6297B51A81D"
+    },
+    {
+      "class": "text",
+      "id": "7EFE1A89-B040-41B6-96E6-E3B12095C4C5"
+    },
+    {
+      "class": "text",
+      "id": "CC57AD0E-AE74-4BAE-BB75-4E917DADA71E"
+    },
+    {
+      "class": "group",
+      "id": "B09645A2-0B83-4208-B1A4-54BC4FBED88C"
+    },
+    {
+      "class": "group",
+      "id": "61F2D9DC-CA95-4C00-8379-80F084B64647"
+    },
+    {
+      "class": "bitmap",
+      "id": "511D61E8-0F0C-480A-AB57-E8B792C3736D"
+    },
+    {
+      "class": "bitmap",
+      "id": "911433AA-C007-4520-A453-829A556AF0BE"
+    },
+    {
+      "class": "group",
+      "id": "C7CAB36A-EF54-4CD5-93EB-38FC71EE9E24"
+    },
+    {
+      "class": "group",
+      "id": "11E741BF-7F07-4405-9C4B-E9851E64DB8D"
+    },
+    {
+      "class": "group",
+      "id": "1EE17EF9-8DE6-4F3E-B15C-F1283D56C0A0"
+    },
+    {
+      "class": "group",
+      "id": "258B6168-CBAE-45A0-B635-C48DD232273A"
+    }
+  ],
+  "name": "Blog Post",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E73F75FF-19CC-47DA-9873-FB32F21822AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3A961EAD-F952-42AC-A7EF-738719CE49CB",
+    "guides": [
+      -1,
+      131,
+      131,
+      907,
+      6159,
+      4846
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5A7FB424-D208-4762-B867-D07F69ABFDC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECDF9681-62E5-485B-BE10-45F29B60F352",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1DC90DF-B0E2-4C59-9185-F2986A7AA1C0",
+    "height": 100,
+    "width": 100,
+    "x": 704,
+    "y": 5412
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D3802B14-6CDB-4EC3-BE25-8F2D1903622F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "76449546-D0D5-4ADD-8890-9899F874C60B"
+    }
+  ],
+  "name": "kameel",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D168A6F-D7A8-43C4-AB72-3D230DD044D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

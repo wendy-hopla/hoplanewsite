@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "45017B61-4018-4EBA-AE18-A9B30CE2154A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "102A3877-09E8-4446-8744-F96D762437CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0F0CA8A-5FFE-4AC4-A0EA-8F1C28321A08",
+    "height": 24,
+    "width": 24,
+    "x": 686,
+    "y": 2017
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F193D3A2-03F0-417E-940C-1409A1E590C6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7168155B-71E5-4814-AC52-1BC4FDE8B832"
+    },
+    {
+      "class": "shapePath",
+      "id": "48A7F92E-73CE-41B3-B403-8DC6B1069F86"
+    }
+  ],
+  "name": "whatsapp",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCB2475D-8BEB-4951-8669-64BD7F7B9D7E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

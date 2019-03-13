@@ -1,0 +1,109 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2313725490196079,
+            "green": 0.09411764705882353,
+            "red": 0.09019607843137255
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 22
+            }
+          },
+          "kerning": -1,
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 973,
+        "location": 0
+      }
+    ],
+    "string": "Whether you think of outsourcing due to local scarcity of talent or reducing cost,\nthere are multiple solutions. The most common ones are traditional outsourcing,\nhiring remote freelancers and virtual assistant services. Distributed outsourcing is the\noptimal combination of all alternatives. It combines all the benefits, solves the\nshortcomings, and creates an optimal solution.\n\nWith long-term engagements and client satisfaction as our priority, we strive to hire\nonly the best 5% of applications to minimize employee turnover. And if employee\nwellness is one of your concerns, you would be glad to know that our model allows to\npaying better salaries compared to local alternatives, while giving our staff back 2-4\nhours a day otherwise spent on commuting. Finally, our HIPAA compliant tools and\ncomplementary Virtual Desktop Infrastructure assure optimal performance and\ndata security, making distributed outsourcing a solid solution for any kind of business\nprocess."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36ED0002-3D0A-44E9-A739-6CA604E39A22",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F862A40-E269-40B2-B4C7-CB4454BF4A49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84D4C94F-CB1A-44CE-989E-DF09947291A1",
+    "height": 350,
+    "width": 746,
+    "x": 348,
+    "y": 945
+  },
+  "glyphBounds": "{{0, 3}, {746, 347}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Whether you think of",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99571F45-21BB-471C-84EC-B55711E526D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "B4988FED-1082-4951-86D6-AC11B0EDC8D4",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2313725490196079,
+          "green": 0.09411764705882353,
+          "red": 0.09019607843137255
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 22
+          }
+        },
+        "kerning": -1,
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

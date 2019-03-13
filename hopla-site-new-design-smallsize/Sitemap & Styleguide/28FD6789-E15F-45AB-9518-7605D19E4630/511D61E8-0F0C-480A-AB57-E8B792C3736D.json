@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "511D61E8-0F0C-480A-AB57-E8B792C3736D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83DA4A21-9F17-4794-A1AB-F053CEC28A2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "62B5DC01-247C-4F5D-ABB6-F4E4F5FE985A",
+    "height": 24,
+    "width": 24,
+    "x": 766,
+    "y": 2859
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/55b4006aa279c69b3801be20eb3bdb4a8353d2ac.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "kisspng-telegram-logo-computer-icons-telegram-5abd165f637699.6665211615223414714074",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "554EF42B-7F9A-4B63-A46E-EBB2C466BE5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

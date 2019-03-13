@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "19ECEF83-8E4D-4B6A-914C-75F86BB2220D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56AD6952-7110-4A43-B8BC-999010C4399A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70314B6E-A0E9-43DF-8EB8-949149D2F934",
+    "height": 24,
+    "width": 24,
+    "x": 808,
+    "y": 5993
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A106ECA3-F951-4BD5-AF93-EF6072B9128C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "34FE8A75-F879-48A3-8397-7F848922EA16"
+    }
+  ],
+  "name": "linkedin",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80B3A882-1EF0-4969-A34F-9E7A122B3117",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
